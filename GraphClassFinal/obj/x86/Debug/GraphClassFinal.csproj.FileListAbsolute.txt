@@ -1,0 +1,15 @@
+C:\Users\RogovaNV\AppData\Local\Temporary Projects\GraphClassFinal\bin\Debug\GraphClassFinal.exe
+C:\Users\RogovaNV\AppData\Local\Temporary Projects\GraphClassFinal\bin\Debug\GraphClassFinal.pdb
+C:\Users\RogovaNV\AppData\Local\Temporary Projects\GraphClassFinal\obj\x86\Debug\GraphClassFinal.exe
+C:\Users\RogovaNV\AppData\Local\Temporary Projects\GraphClassFinal\obj\x86\Debug\GraphClassFinal.pdb
+E:\5 СЕМЕСТР!!!!!!!!!!!!\графы\GraphClassFinal\GraphClassFinal\obj\x86\Debug\GraphClassFinal.exe
+E:\5 СЕМЕСТР!!!!!!!!!!!!\графы\GraphClassFinal\GraphClassFinal\obj\x86\Debug\GraphClassFinal.pdb
+E:\5 СЕМЕСТР!!!!!!!!!!!!\графы\GraphClassFinal\GraphClassFinal\bin\Debug\GraphClassFinal.exe
+E:\5 СЕМЕСТР!!!!!!!!!!!!\графы\GraphClassFinal\GraphClassFinal\bin\Debug\GraphClassFinal.pdb
+F:\5 СЕМЕСТР!!!!!!!!!!!!\графы\GraphClassFinal\GraphClassFinal\bin\Debug\GraphClassFinal.exe
+F:\5 СЕМЕСТР!!!!!!!!!!!!\графы\GraphClassFinal\GraphClassFinal\bin\Debug\GraphClassFinal.pdb
+F:\5 СЕМЕСТР!!!!!!!!!!!!\графы\GraphClassFinal\GraphClassFinal\obj\x86\Debug\GraphClassFinal.exe
+F:\5 СЕМЕСТР!!!!!!!!!!!!\графы\GraphClassFinal\GraphClassFinal\obj\x86\Debug\GraphClassFinal.pdb
+F:\5 СЕМЕСТР!!!!!!!!!!!!\графы\GraphClassFinal\GraphClassFinal\obj\x86\Debug\GraphClassFinal.csprojAssemblyReference.cache
+F:\5 СЕМЕСТР!!!!!!!!!!!!\графы\GraphClassFinal\GraphClassFinal\obj\x86\Debug\GraphClassFinal.csproj.CoreCompileInputs.cache
+E:\5 СЕМЕСТР!!!!!!!!!!!!\графы\GraphClassFinal\GraphClassFinal\obj\x86\Debug\GraphClassFinal.csprojResolveAssemblyReference.cache
